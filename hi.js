@@ -3,8 +3,5 @@ console.log("This is just a test");
 console.log("Bye Felicia");
 
 
-/*
-* A multiline comment
-*
-*
-*/
+//a single line comment
+
